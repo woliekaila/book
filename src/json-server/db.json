@@ -1,0 +1,26 @@
+{
+  "info": [
+    {
+      "autor": "万宁",
+      "name": "纸牌",
+      "imgUrl": "https://img2.winxuancdn.com/4880/1201554880_0_1_800x800.jpg?1517309562000&imageMogr2/thumbnail/200x200",
+      "price": "20",
+      "press": "湖南文艺出版社",
+      "publishDate": "2017-08-01",
+      "isChecked": true,
+      "num": 7,
+      "id": 9
+    },
+    {
+      "autor": "太宰治",
+      "name": "人间失格",
+      "imgUrl": "https://img1.winxuancdn.com/8119/1201528119_0_1_800x800.jpg?1527012177000&imageMogr2/thumbnail/200x200",
+      "price": "21",
+      "press": "江苏凤凰科技出版社",
+      "publishDate": "2018-07-01",
+      "isChecked": true,
+      "num": 1,
+      "id": 6
+    }
+  ]
+}

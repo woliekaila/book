@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "autor": "王金柱",
+    "name": "vuejs与nodejs的全栈开发实现",
+    "imgUrl": "https://img3.winxuancdn.com/2215/1202362215_0_1_original_800x800.jpg?1608786780000&imageMogr2/thumbnail/200x200",
+    "price": "58",
+    "press": "清华大学出版社",
+    "publishDate": "2021-01-01",
+    "isChecked": true,
+    "num": 1
+  },
+  {
+    "id": 2,
+    "autor": "残雪",
+    "name": "黑暗地母的礼物",
+    "imgUrl": "https://img3.winxuancdn.com/2650/1201462650_22_1.jpg?1502858936000&imageMogr2/thumbnail/200x200",
+    "price": "29",
+    "press": "湖南文艺出版社",
+    "publishDate": "2015-12-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 3,
+    "autor": "陈启文",
+    "name": "袁隆平的世界",
+    "imgUrl": "https://img1.winxuancdn.com/1346/1201471346_49_0_original_800x800.jpg?1622788741000&imageMogr2/thumbnail/200x200",
+    "price": "23",
+    "press": "湖南文艺出版社",
+    "publishDate": "2016-12-01",
+    "isChecked": true,
+    "num": 1 
+  },
+  {
+    "id": 4,
+    "autor": "卡森·麦卡勒斯",
+    "name": "伤心咖啡馆之歌",
+    "imgUrl": "https://img1.winxuancdn.com/4768/1201624768_0_2_800x800.jpg?1571209802000&imageMogr2/thumbnail/200x200",
+    "price": "32",
+    "press": "湖南文艺出版社",
+    "publishDate": "2018-01-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 5,
+    "autor": "残雪",
+    "name": "趋光运动：回溯童年的精神图景",
+    "imgUrl": "https://img2.winxuancdn.com/4574/1201474574_0_1_800x800.jpg?1516614133000&imageMogr2/thumbnail/200x200",
+    "price": "30",
+    "press": "湖南文艺出版社",
+    "publishDate": "2017-02-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 6,
+    "autor": "太宰治",
+    "name": "人间失格",
+    "imgUrl": "https://img1.winxuancdn.com/8119/1201528119_0_1_800x800.jpg?1527012177000&imageMogr2/thumbnail/200x200",
+    "price": "21",
+    "press": "江苏凤凰科技出版社",
+    "publishDate": "2018-07-01",
+    "isChecked": true,
+    "num": 1
+  },
+  {
+    "id": 7,
+    "autor": "湖南省委宣传部",
+    "name": "读有所得",
+    "imgUrl": "https://img3.winxuancdn.com/5351/1201535351_0_2_800x800.jpg?1566214048000&imageMogr2/thumbnail/200x200",
+    "price": "96",
+    "press": "湖南文艺出版社",
+    "publishDate": "2017-09-01",
+    "isChecked": true,
+    "num": 1 
+  },
+  {
+    "id": 8,
+    "autor": "余秋雨",
+    "name": "门孔",
+    "imgUrl": "https://img2.winxuancdn.com/3649/1201543649_22_1.jpg?1507968744000&imageMogr2/thumbnail/200x200",
+    "price": "21",
+    "press": "作家出版社",
+    "publishDate": "2020-04-01",
+    "isChecked": true,
+    "num": 1 
+  },
+  {
+    "id": 9,
+    "autor": "万宁",
+    "name": "纸牌",
+    "imgUrl": "https://img2.winxuancdn.com/4880/1201554880_0_1_800x800.jpg?1517309562000&imageMogr2/thumbnail/200x200",
+    "price": "20",
+    "press": "湖南文艺出版社",
+    "publishDate": "2017-08-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 10,
+    "autor": "张炜",
+    "name": "艾约堡秘史",
+    "imgUrl": "https://img3.winxuancdn.com/4811/1201614811_0_1_800x800.jpg?1519375549000&imageMogr2/thumbnail/200x200",
+    "price": "21",
+    "press": "湖南文艺出版社",
+    "publishDate": "2018-01-01",
+    "isChecked": true ,
+    "num": 1
+  }
+]

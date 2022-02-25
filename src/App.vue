@@ -1,28 +1,33 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <header-cpn></header-cpn>
+
+    <router-view></router-view>
+
+    <footer-cpn></footer-cpn>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Vue from 'vue'
+import HeaderCpn from '@/components/Header.vue'
+import FooterCpn from '@/components/Footer.vue'
 
+import carsouel from '@/components/carsouel.vue'
+
+Vue.component('Carsouel',carsouel)
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HeaderCpn,
+    FooterCpn
+  },
+  mounted(){
+    // console.log(this.$refs)
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>

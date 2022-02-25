@@ -1,0 +1,112 @@
+[
+  {
+    "id": 11,
+    "autor": "北猫",
+    "name": "米小圈上学记 1年级(全4册)",
+    "imgUrl": "https://img2.winxuancdn.com/3534/1201663534_0_2_original_800x800.jpg?1633917906000&imageMogr2/thumbnail/200x200",
+    "price": "72",
+    "press": "四川少年儿童出版社",
+    "publishDate": "2021-10-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 12,
+    "autor": "北猫",
+    "name": "米小圈上学记(全4册)",
+    "imgUrl": "https://img3.winxuancdn.com/3537/1201663537_0_2_original_800x800.jpg?1633923005000&imageMogr2/thumbnail/200x200",
+    "price": "72",
+    "press": "四川少年儿童出版社",
+    "publishDate": "2018-03-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 13,
+    "autor": "北猫",
+    "name": "米小圈上学记脑筋急转弯",
+    "imgUrl": "https://img1.winxuancdn.com/9094/1202249094_49_0_original_800x800.jpg?1590483610000&imageMogr2/thumbnail/200x200",
+    "price": "46",
+    "press": "四川少年儿童出版社",
+    "publishDate": "2016-12-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 14,
+    "autor": "北猫",
+    "name": "米小圈上学记 4年级(全4册)",
+    "imgUrl": "https://img3.winxuancdn.com/3531/1201663531_49_800x800.jpg?1529475826000&imageMogr2/thumbnail/200x200",
+    "price": "72",
+    "press": "四川少年儿童出版社",
+    "publishDate": "2021-10-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 15,
+    "autor": "北猫",
+    "name": "米小圈上学记 3年级(全4册)",
+    "imgUrl": "https://img0.winxuancdn.com/3538/1201663538_0_2_original_800x800.jpg?1633933504000&imageMogr2/thumbnail/200x200",
+    "price": "72",
+    "press": "四川少年儿童出版社",
+    "publishDate": "2021-10-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 16,
+    "autor": "黄群金,秋叶",
+    "name": "和秋叶一起学Word Excel",
+    "imgUrl": "https://img1.winxuancdn.com/9393/1202229393_49_0_original_800x800.jpg?1589004455000&imageMogr2/thumbnail/200x200",
+    "price": "235",
+    "press": "人民邮电出版社",
+    "publishDate": "2020-05-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 17,
+    "autor": "(英)罗伯特·戴博德",
+    "name": "蛤蟆先生去看心理医生",
+    "imgUrl": "https://img3.winxuancdn.com/0395/1202280395_0_0_original_800x800.jpg?1597201808000&imageMogr2/thumbnail/200x200",
+    "price": "26",
+    "press": "天津人民出版社",
+    "publishDate": "2020-08-01",
+    "isChecked": true,
+    "num": 1
+  },
+  {
+    "id": 18,
+    "autor": "郇庆治",
+    "name": "马克思主义生态学论丛",
+    "imgUrl": "https://img2.winxuancdn.com/1349/1202561349_49_0_800x800.jpg?1624240501000&imageMogr2/thumbnail/200x200",
+    "price": "384",
+    "press": "中国环境出版集团",
+    "publishDate": "2021-05-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 19,
+    "autor": "李楠",
+    "name": "噪声地图计算技术",
+    "imgUrl": "https://img2.winxuancdn.com/3175/1202613175_0_0_original_800x800.jpg?1631257548000&imageMogr2/thumbnail/200x200",
+    "price": "55",
+    "press": "湖南文艺出版社",
+    "publishDate": "2017-08-01",
+    "isChecked": true ,
+    "num": 1
+  },
+  {
+    "id": 20,
+    "autor": "李维尊",
+    "name": "现代生物质资源化应用技术",
+    "imgUrl": "https://img3.winxuancdn.com/7637/1202597637_0_0_original_800x800.jpg?1629270651000&imageMogr2/thumbnail/200x200",
+    "price": "64",
+    "press": "化学工业出版社",
+    "publishDate": "2021-09-01",
+    "isChecked": true ,
+    "num": 1
+  }
+]
